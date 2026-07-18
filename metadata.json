@@ -1,0 +1,8 @@
+{
+  "name": "Minimalist Travel Planner",
+  "description": "An elegant, high-contrast travel planner that ingests user preferences to generate exhaustive, 5-module travel blueprints using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
